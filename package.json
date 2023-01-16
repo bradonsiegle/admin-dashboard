@@ -1,6 +1,6 @@
 {
 	"name": "react-admin",
-	"homepage": "https://bradonsiegle.github.io/admin-dashboard/",
+	"homepage": "https://bradonsiegle.github.io/admin-dashboard/#",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
